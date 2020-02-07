@@ -38,7 +38,7 @@ The way that this program is set up, allows the user to view the menu for the bu
 
 
 ## References
-[Back To The Top](#Alliyah's-Speedy-Cupcakes)
+[Back To The Top](#The Authentic-Burger-and-Bakery-Restaurant)
  James Q. Quick free ReadMe template 
  Link for James Q.Quick(https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fjamesqquick%2Fread-me-template&v=eVGEea7adDM&redir_token=puNrAIfrj29cNWLsLHxPRvLZnXd8MTU2MzMwMjc3OUAxNTYzMjE2Mzc5&event=video_description)
 
@@ -48,7 +48,7 @@ The way that this program is set up, allows the user to view the menu for the bu
 
  License
 
-Copyright (c) [2020[Alliyah Munir]
+Copyright (c) [2020] [Alliyah Munir]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -78,7 +78,7 @@ SOFTWARE.
 -Have any questions or concerns?-Contact us at [(626-661-2386)]! We are here to serve you!
 
 
-[Back To The Top](#Alliyah's-Speedy-Cupcakes)
+(#The-Authentic-Burger-And-Bakery-Restaurant)
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
@@ -91,3 +91,6 @@ Author Info
 Location - 1480 East NorthWood Avenue Perris, CA 92570
 Gmail - alliyahmunir@gmail.com
 Have any questions or concerns? Contact Us, We are here to help you!- [(626-661-2386)]
+
+
+[Back To The Top]
