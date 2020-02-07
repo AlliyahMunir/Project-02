@@ -1,8 +1,8 @@
 THE AUTHENTIC BURGER AND BAKERY RESTAURANT
 ## Table of contents
 - [General Information](#GeneralInformation)
-- [Alliyah's Speedy Cupcake Hours](#The Authentic-Burger-and-Bakery-Restaurant-Hours)
-- [Alliyah's Homemade Logo](#The Authentic-Burger-and-Bakery-Restaurant Logo)
+- [The Authentic Burger and Bakery Restaurant Hours)](#The Authentic-Burger-and-Bakery-Restaurant-Hours)
+- [The Authentic Burger and Bakery Restaurant Logo](#The Authentic-Burger-and-Bakery-Restaurant Logo)
 - [How To Use](#how-to-use)
 - [References](#references)
 - [License](#license)
