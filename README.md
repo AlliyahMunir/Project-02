@@ -12,7 +12,7 @@
 > This is a ReadMe for Alliyahs new restaurant, called "The Authentic Burger and Bakery Restaurant"
 
 ## General Info
-This project has been created for the people with burger and sweet cravings. This restaurant has serves dishes filled with flavor whether it be a burger, cheesecake, or some curly fries. Furthermore, our natural and fresh ingredients have the ability to bring family and friends together with the binding of burgers and sweets. 
+This project has been created for the people with burger and sweet cravings. This restaurant serves dishes filled with flavor whether it be a burger, cheesecake, or some curly fries. Furthermore, our natural and fresh ingredients have the ability to bring family and friends together with the binding of burgers and sweets. 
 
 	
 ## The Authentic Burger & Bakery Restaurant Hours
