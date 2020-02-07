@@ -26,7 +26,7 @@ This project has been created for the people with burger and sweet cravings. Thi
 
 # The Authentic Burger & Bakery Restaurant Logo
 
-https://www.canva.com/design/DADzG7imO8s/share/preview?token=757UN-vv0dsABku_MoxCdA&role=EDITOR&utm_content=DADzG7imO8s&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton
+https://www.canva.com/design/DADzG7imO8s/eZeFfo8wHoPTQ0EVSij0DA/view?utm_content=DADzG7imO8s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 Copy and Paste the link above to check it out! 😃
 
