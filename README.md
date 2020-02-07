@@ -35,13 +35,6 @@ Press on the link above to check it out! 😃
 ## How To Use
 The way that this program is set up, allows the user to view the menu for the burgers, desserts, and beverages. When the menu is displayed the user can order anything they would like and an accurate wait time is given. Furthermore, if the customer orders a Build-Your-Own Burger, they will be asked to input order seperately, then given a total without tax included. Eventually, the user will be asked to fill out a customer review page in order for the restaurant to make any improvements that are needed.
 
-
-
-## References
-
- James Q. Quick free ReadMe template 
- Link for James Q.Quick: https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fjamesqquick%2Fread-me-template&v=eVGEea7adDM&redir_token=puNrAIfrj29cNWLsLHxPRvLZnXd8MTU2MzMwMjc3OUAxNTYzMjE2Mzc5&event=video_description
-
 ---
 
 ## Author Info
@@ -56,7 +49,12 @@ The way that this program is set up, allows the user to view the menu for the bu
 - Contact us at [(626-661-2386)]! We are here to serve you!
 
 ---
+## References
 
+ James Q. Quick free ReadMe template 
+ Link for James Q.Quick: https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fjamesqquick%2Fread-me-template&v=eVGEea7adDM&redir_token=puNrAIfrj29cNWLsLHxPRvLZnXd8MTU2MzMwMjc3OUAxNTYzMjE2Mzc5&event=video_description
+ 
+---
 
 ## License
 
