@@ -44,9 +44,9 @@ The way that this program is set up, allows the user to view the menu for the bu
 
 - Gmail - [alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
 
-- Have any questions or concerns?
+- Have any questions or concerns? We are here to serve you!
 
-- Contact us at [(626-661-2386)]! We are here to serve you!
+- Contact us at (626)-661-2386)
 
 ---
 ## References
