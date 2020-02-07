@@ -42,7 +42,6 @@ The way that this program is set up, allows the user to view the menu for the bu
  James Q. Quick free ReadMe template 
  Link for James Q.Quick: https://www.youtube.com/redirect?q=https%3A%2F%2Fgithub.com%2Fjamesqquick%2Fread-me-template&v=eVGEea7adDM&redir_token=puNrAIfrj29cNWLsLHxPRvLZnXd8MTU2MzMwMjc3OUAxNTYzMjE2Mzc5&event=video_description
 
-[Back To The Top](#The-Authentic-Burger-and-Bakery-Restaurant)
 ---
 
 ## Author Info
