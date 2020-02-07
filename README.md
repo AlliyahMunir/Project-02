@@ -1,6 +1,6 @@
 ## THE AUTHENTIC BURGER AND BAKERY RESTAURANT
 ## --------------------------------------------------------------
-## Table of contents
+## Table of Contents
 - [General Information](#GeneralInformation)
 - [The Authentic Burger and Bakery Restaurant Hours](#The-Authentic-Burger-and-Bakery-Restaurant-Hours)
 - [The Authentic Burger and Bakery Restaurant Logo](#The-Authentic-Burger-and-Bakery-Restaurant-Logo)
@@ -48,10 +48,10 @@ The way that this program is set up, allows the user to view the menu for the bu
 ## Author Info
 
 ---
-
 - Location - 1480 East NorthWood Avenue Perris, CA 92570
 - Gmail - [alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
--Have any questions or concerns?-Contact us at [(626-661-2386)]! We are here to serve you!
+- Have any questions or concerns?
+- Contact us at [(626-661-2386)]! We are here to serve you!
 
 
 (#The-Authentic-Burger-And-Bakery-Restaurant)
