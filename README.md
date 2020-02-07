@@ -1,4 +1,5 @@
-THE AUTHENTIC BURGER AND BAKERY RESTAURANT
+## THE AUTHENTIC BURGER AND BAKERY RESTAURANT
+## ------------------------------------------
 ## Table of contents
 - [General Information](#GeneralInformation)
 - [The Authentic Burger and Bakery Restaurant Hours](#The-Authentic-Burger-and-Bakery-Restaurant-Hours)
