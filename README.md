@@ -33,7 +33,7 @@ Copy and Paste the link above to check it out! 😃
 ---
 
 ## How To Use
-The way that this program is set up, allows the user to view the menu for the burgers, desserts, and beverages. When the menu is displayed the user can order anything they would like and an accurate wait time is given. Furthermore, if the customer orders a Build-yourr-Own Burger, they will be asked to input order seperately, then given a total without tax included. Eventually, the user will be asked to fill out a customer review page in order for the restaurant to make any improvements that are needed.
+The way that this program is set up, allows the user to view the menu for the burgers, desserts, and beverages. When the menu is displayed the user can order anything they would like and an accurate wait time is given. Furthermore, if the customer orders a Build-Your-Own Burger, they will be asked to input order seperately, then given a total without tax included. Eventually, the user will be asked to fill out a customer review page in order for the restaurant to make any improvements that are needed.
 
 
 
