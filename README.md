@@ -48,13 +48,12 @@ The way that this program is set up, allows the user to view the menu for the bu
 
 ---
 - Location - 1480 East NorthWood Avenue Perris, CA 92570
-- Gmail - [alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
-- Have any questions or concerns?
-- Contact us at [(626-661-2386)]! We are here to serve you!
 
-Location - 1480 East NorthWood Avenue Perris, CA 92570
-Gmail - alliyahmunir@gmail.com
-Have any questions or concerns? Contact Us, We are here to help you!- [(626-661-2386)]
+- Gmail - [alliyahmunir@gmail.com](https://gmail.com/alliyahmunir)
+
+- Have any questions or concerns?
+
+- Contact us at [(626-661-2386)]! We are here to serve you!
 
 ---
 
